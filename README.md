@@ -60,7 +60,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ## 📝 File Used / Fichier utilisé
 
 * `saveInfos.txt`: Stores all contact information entered by the user.
-* 
+
 * `saveInfos.txt` : Contient toutes les informations des contacts ajoutés par l'utilisateur.
 
 ---
