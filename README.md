@@ -20,6 +20,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ### 1. `class Person`
 
 **EN:** A class to represent a contact with attributes: fullname, status (job), age, phone number, and email.
+
 **FR:** Une classe qui représente un contact avec les attributs : nom complet, métier, âge, numéro de téléphone et email.
 
 ---
@@ -27,6 +28,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ### 2. `infos_recup(a: Person)`
 
 **EN:** Prompts the user to input their personal information and assigns it to the given `Person` object.
+
 **FR:** Demande à l'utilisateur de saisir ses informations personnelles et les stocke dans l'objet `Person` donné.
 
 ---
@@ -34,6 +36,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ### 3. `read_info(file)`
 
 **EN:** Reads all the lines from the specified file and prints each contact.
+
 **FR:** Lit toutes les lignes du fichier spécifié et affiche chaque contact.
 
 ---
@@ -41,6 +44,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ### 4. `write_info(file, a: Person)`
 
 **EN:** Appends the contact details of a `Person` object to the specified file.
+
 **FR:** Ajoute les informations d’un objet `Person` à la fin du fichier spécifié.
 
 ---
@@ -48,6 +52,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ### 5. `main()`
 
 **EN:** The main function that controls the program flow. It displays the menu and responds to user input (`a` to add, `l` to read, `q` to quit).
+
 **FR:** La fonction principale qui contrôle l’exécution du programme. Elle affiche le menu et répond aux choix de l'utilisateur (`a` pour ajouter, `l` pour lire, `q` pour quitter).
 
 ---
@@ -55,6 +60,7 @@ Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce pro
 ## 📝 File Used / Fichier utilisé
 
 * `saveInfos.txt`: Stores all contact information entered by the user.
+* 
 * `saveInfos.txt` : Contient toutes les informations des contacts ajoutés par l'utilisateur.
 
 ---
