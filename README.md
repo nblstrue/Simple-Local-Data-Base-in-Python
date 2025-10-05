@@ -93,4 +93,4 @@ q. Quit
 
 ## 📃 License
 
-MIT License (or specify your own)
+Can be used by anyone, as long as you reference the github
