@@ -1,7 +1,3 @@
-Voici un **README complet bilingue (anglais/français)** pour ton projet de gestion de contacts, prêt à être utilisé sur GitHub :
-
----
-
 # 📇 Contact Manager / Gestionnaire de Contacts
 
 A simple console-based contact manager in Python. This program allows users to enter and store contact information (name, job, age, phone, email) in a text file and read it back later.
