@@ -8,10 +8,10 @@ Un gestionnaire de contacts simple en local de commande écrit en Python. Ce pro
 
 ## 📁 Features / Fonctionnalités
 
-* Add a new contact
-* Save contact info to a text file
-* Read all saved contacts
-* Simple and lightweight CLI interface
+* Add a new contact / Ajouter un nouveau contact
+* Save contact info to a text file / Enregistrer les informations du contact dans un fichier texte
+* Read all saved contacts / Lire tous les contacts enregistrés
+* Simple and lightweight CLI interface / Interface CLI simple et légère
 
 ---
 
@@ -59,9 +59,11 @@ Un gestionnaire de contacts simple en local de commande écrit en Python. Ce pro
 
 ## 📝 File Used / Fichier utilisé
 
-* `saveInfos.txt`: Stores all contact information entered by the user.
+`saveInfos.txt`
 
-* `saveInfos.txt` : Contient toutes les informations des contacts ajoutés par l'utilisateur.
+**EN:** Stores all contact information entered by the user.
+
+**FR:** Contient toutes les informations des contacts ajoutés par l'utilisateur.
 
 ---
 
