@@ -2,7 +2,7 @@
 
 A simple console-based contact manager in Python. This program allows users to enter and store contact information (name, job, age, phone, email) in a text file and read it back later.
 
-Un gestionnaire de contacts simple en ligne de commande écrit en Python. Ce programme permet à l'utilisateur d'ajouter et sauvegarder des informations personnelles (nom, métier, âge, téléphone, email) dans un fichier texte, puis de les lire.
+Un gestionnaire de contacts simple en local de commande écrit en Python. Ce programme permet à l'utilisateur d'ajouter et sauvegarder des informations personnelles (nom, métier, âge, téléphone, email) dans un fichier texte, puis de les lire.
 
 ---
 
